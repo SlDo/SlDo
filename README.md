@@ -14,7 +14,9 @@
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -30,7 +32,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
 </div>
 </td><td valign="top" width="33%">
+  
 ### Backend  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
@@ -49,7 +53,7 @@
 <br/>
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/sldo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -63,6 +67,6 @@
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sldo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=sldo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
