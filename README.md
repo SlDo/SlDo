@@ -8,6 +8,7 @@
 
 * [Skylite](https://github.com/SlDo/skylite-cli) | 🚀
 * [Codem](https://github.com/Codem-Project) | ⌨️
+* [React Awesome Form (Hook)](https://github.com/SlDo/react-awesome-form) | 🚀
 
 <br/>  
 
