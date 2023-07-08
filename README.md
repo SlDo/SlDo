@@ -1,6 +1,6 @@
 ![SlDo](https://i.imgur.com/LGLPYoK.png)
 <h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">A passionate frontend developer from Moscow</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [DoorToMe](https://github.com/SlDo/doorto)
 
