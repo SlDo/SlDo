@@ -6,14 +6,6 @@
 
 - 🧐 Contributor of [Junter](https://junter.dev/)
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
-
-- 👨‍💻 All of my projects are available at [github.com](github.com)
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **alforestx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
