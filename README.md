@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [DoorToMe](https://github.com/SlDo/doorto)
 
+- 🧐 Contributor of [Junter](https://junter.dev/)
+
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
