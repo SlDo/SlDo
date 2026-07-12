@@ -1,60 +1,69 @@
 ![SlDo](https://i.imgur.com/LGLPYoK.png)
-<h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [DoorToMe](https://github.com/SlDo/doorto)
+<h1 align="center">Viacheslav Dodonov</h1>
 
-- 🧐 Contributor of [Junter](https://junter.dev/)
+`Frontend Team Lead` · `Accessibility` · `Web Performance` · `React / TypeScript`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sldo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sldo" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sldo" height="30" width="40" /></a>
+> 💙 I make complex, high-load web products **fast** and **usable for everyone**.
+
+8 years building and leading frontend teams. I currently lead a team of 5–8
+engineers — owning technical direction, code-review culture, mentoring and hiring.
+
+---
+
+## 🛠️ What I work on
+
+**♿ Accessibility** — WCAG 2.2 AA remediation, ARIA authoring, screen-reader and
+keyboard testing, `axe` / Lighthouse gates in CI, accessible design systems.
+I've authored **doda11y** and contributed an a11y feature to **Swiper** (43k+ ⭐).
+
+**⚡ Performance** — Core Web Vitals (LCP / INP / CLS), bundle and render
+optimization, performance budgets, high-load UIs handling 100k+ items.
+
+**🧩 Design systems** — I'm the lead author of **vega-ui**, a published, fully-typed
+React component library with a broad component set, theming, and advanced
+interaction patterns.
+
+**🧭 Leadership** — design-system ownership, code-review standards, mentoring,
+and technical hiring — including designing live-coding interviews.
+
+---
+
+## 💻 Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" height="42" alt="Redux" title="Redux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="42" height="42" alt="Vitest" title="Vitest" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42" height="42" alt="Jest" title="Jest" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="42" height="42" alt="Storybook" title="Storybook" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" height="42" alt="Sass" title="Sass" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42" height="42" alt="ESLint" title="ESLint" />
 </p>
 
-<h3 align="left">Stats:</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlDo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlDo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-</div>
+- 🧩 Leading **vega-ui**, a fully-typed React component library — broad component set, theming, and advanced interaction patterns
+- ♿ Maintaining **doda11y**, a React hooks library for web accessibility (TypeScript, npm)
 
+---
+
+## 📦 Selected work
+
+| Project | What it is |
+|---|---|
+| **[vega-ui](https://vega-ui.github.io/ui/)** | Published, fully-typed React component library (`@vega-ui/react`) — a broad component set, theming, and advanced interaction patterns. I'm the lead author. **[Live demo →](https://vega-ui.github.io/ui/)** |
+| **[doda11y](https://github.com/MTSWebServices/doda11y)** | A published React **hooks** library for web accessibility — keyboard support, ARIA roles and `aria-*` handling, TypeScript + Storybook + npm release. |
+| **[Swiper #7632](https://github.com/nolimits4web/swiper/pull/7632)** | Merged a11y contribution to Swiper (43k+ ⭐): added the `scrollOnFocus` option, giving developers control over focus-scroll behaviour for keyboard users in interactive carousels. |
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/vyacheslav-dodonov-093315141) ·
+[Email](mailto:slavadodonov19@gmail.com)
